@@ -3,7 +3,7 @@
 [![R-CMD-check](https://github.com/yourusername/susneo-shiny-timothy/workflows/R-CMD-check/badge.svg)](https://github.com/yourusername/susneo-shiny-{yourname}/actions)
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/yourusername/susneo-shiny-{yourname}.git`
+1. Clone the repository: `git clone https://github.com/yourusername/susneo-shiny-timothy.git`
 2. Install dependencies: `Rscript -e "install.packages('devtools'); devtools::install_deps()"`
 3. Run the app: `shiny::runApp()` or source `app.R`.
 
