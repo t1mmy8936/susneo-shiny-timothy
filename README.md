@@ -1,4 +1,4 @@
-# susneo-shiny-{yourname}
+# susneo-shiny-timothy
 
 [![R-CMD-check](https://github.com/yourusername/susneo-shiny-{yourname}/workflows/R-CMD-check/badge.svg)](https://github.com/yourusername/susneo-shiny-{yourname}/actions)
 
