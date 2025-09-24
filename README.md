@@ -1,6 +1,6 @@
 # susneo-shiny-timothy
 
-[![R-CMD-check](https://github.com/yourusername/susneo-shiny-{yourname}/workflows/R-CMD-check/badge.svg)](https://github.com/yourusername/susneo-shiny-{yourname}/actions)
+[![R-CMD-check](https://github.com/yourusername/susneo-shiny-timothy/workflows/R-CMD-check/badge.svg)](https://github.com/yourusername/susneo-shiny-{yourname}/actions)
 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/yourusername/susneo-shiny-{yourname}.git`
